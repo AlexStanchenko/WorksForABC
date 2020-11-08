@@ -12,13 +12,14 @@
 
 **В примерах работы программы будут представлены скриншоты для указанных случаев**
 # Скриншоты программы
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/1.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/2.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/3.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/4.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/5.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/1.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/2.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/3.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/4.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/5.PNG)
+
 # Примеры работы программы
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/TestProgram_1.png)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/TestProgram_2.png)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/TestProgram_3.png)
-![screenshot of sample](https://github.com/AlexStanchenko/AssemblerWorks/blob/master/PadawanSequence/TestProgram_4.png)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_1.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_2.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_3.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_4.PNG)
