@@ -1,0 +1,34 @@
+\\First Example
+Input length Array: 10
+Create Array_A [10]:
+
+ 22 38 19 36 29 37 30 12 39
+
+Please, input number: 4
+Create Array_B [2]:
+
+ 36 12
+
+
+\\Second Example
+Input length Array: 5
+Create Array_A [5]:
+
+ 12 8 15 6 11
+
+Please, input number: 2
+Create Array_B [3]:
+
+ 12 8 6
+
+
+\\Third Example
+Input length Array: 6
+Create Array_A [6]:
+
+ 5 25 26 2 22 0
+
+Please, input number: 5
+Create Array_B [3]:
+
+ 5 25 0
