@@ -19,7 +19,7 @@
 ![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/5.PNG)
 
 # Примеры работы программы
-![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_1.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_2.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_3.PNG)
-![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_4.PNG)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_1.png)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_2.png)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_3.png)
+![screenshot of sample](https://github.com/AlexStanchenko/WorksForABC/blob/main/AssamblerWorks/PadawanSequence/TestProgram_4.png)
