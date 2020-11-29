@@ -1,0 +1,6 @@
+Thread-2 A1A2 { (2õ3) }
+Thread-0 A0A1 { (1õ2) }
+Thread-3 A1A3 { (2õ4) }
+Thread-1 A0A3 { (1õ4) }
+Thread-0 A0A2 { (1õ3) }
+Thread-4 A2A3 { (3õ4) }
